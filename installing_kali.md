@@ -84,3 +84,10 @@ But, after waiting for tens of minuets, the passwords didn't show up like what h
 
 WELL, it seems that I need to learn another way to get their passwords.
 
+
+
+
+
+
+
+<!--ok, see you at next markdown: hello_kali-->
