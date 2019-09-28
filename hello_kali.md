@@ -12,10 +12,12 @@ Soon, I got my markdowns on the *Kali*. However, another problem accured -- I co
 
 ## Trouble Is A Friend ##
 <!-- as today I am to busy and it's late night now, so I am going to cut my markdown for today down.-->
-Then to type in Chinese, **I downloaded the *Fcitx* and the *GooglePinYin* .** And to download *Wechat*(of course not official version), I downloaded the *Snap*, ** BUT THERE ISN'T A *WECHAT* IN *SNAP*. **
+Then to type in Chinese, **I downloaded the *Fcitx* and the *GooglePinYin* .** And to download *Wechat*(of course not official version), I downloaded the *Snap*, **BUT THERE ISN'T A *WECHAT* IN *SNAP*. **
+
+## The Branch ##
+
+<!-- This paragraph is going to markdown what I learnt of *Git* and *GitHub* today. -->
+
+It is said that I'd better use the *branch* function to update my git code. Because it is safer and very convenient. But to be honest, it was a little bit difficult for me to understand and remember so much noun and command. And finally, by doing test, I found that **I almost need to give a command of uploading my local change after I do every thing. So, DON'T FORGET TO `git push <...>`!**    
 
 
-
-
-
-test
