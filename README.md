@@ -1,2 +1,2 @@
 # markdown
-this project is to markdown my experience of learning those tech stuff
+this repository is to markdown my experience of learning those tech stuff
